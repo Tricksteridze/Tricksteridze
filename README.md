@@ -1,69 +1,51 @@
-# Hi, I'm Levan 👋
+# Hi, I'm Levan 
 
-IT Support / Junior QA candidate based in Tbilisi, Georgia.
+IT Support / Linux Support / Junior DevOps candidate based in Tbilisi, Georgia.
 
----
+[LinkedIn](https://www.linkedin.com/in/levan-khutsishvili-0030b33a1) · levankhutsishvili@proton.me
 
-## 💻 About Me
+## About Me
 
-- 1.5+ years working night shifts at SPAR Georgia (high-responsibility environment)
-- Transitioning into IT (System Administration & QA Automation)
-- Strong self-learner with hands-on practical projects
-- Comfortable working under pressure and solving issues independently
+- Currently working night shifts at SPAR Georgia (high-responsibility, independent troubleshooting environment) — transitioning into IT
+- Self-taught in Linux administration, networking, and automation through hands-on, real projects
+- Comfortable working under pressure and solving problems independently
+- Actively building toward System Administration / DevOps, one project at a time
 
----
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Operating Systems**
-- Windows 10/11 (advanced)
-- Linux (Debian, Arch, Termux)
+- Linux (Debian, Arch) — daily driver, terminal-first
+- Windows 10/11 (administration, registry, optimization)
 
 **Networking**
 - TCP/IP, DNS, DHCP
-- Router configuration
-- VLAN understanding
+- Router & AP configuration, VLAN
+- RJ-45 crimping and cable testing
 
-**Tools & Technologies**
-- Python (automation scripts)
-- Pytest (basic)
-- Git & GitHub
-- JSON / YAML
+**Infrastructure & Automation**
+- Docker, Docker Compose
+- Prometheus, Grafana, Loki, Promtail, Telegraf
+- Python (automation, OOP), Bash/Shell scripting
+- Git / GitHub
 
----
+## Featured Projects
 
-## 🚀 Projects
+### [linux-observability-stack](https://github.com/Tricksteridze/linux-observability-stack)
+Self-hosted monitoring stack for Linux hosts — Prometheus, Grafana, Loki, Promtail, Telegraf, deployed via Docker Compose with a single command. Detects the host's Docker group GID at runtime and grants access via `group_add` instead of privileged container mode. Auto-provisions Grafana dashboards on startup. Binds services to localhost by default, with VPN overlay recommended for remote access.
 
-### 🐧 Linux GUI on Android Tablet
-- Deployed full Debian environment via Termux (proot)
-- Automated startup using bash scripts
-- Debugged X11 and rendering issues
+### [asterisk-gemini-voice](https://github.com/Tricksteridze/asterisk-gemini-voice)
+Self-hosted AI voice assistant over SIP — Asterisk PBX integrated with the Gemini API via FastAGI. Handles real-time audio streams and session state in Python.
 
----
+### RimWorld Georgian Localization
+Core contributor to RimWorld's **official** Georgian localization, maintained under Ludeon Studios' own GitHub organization. Restructured the repository into a modern multi-DLC layout and built Python/XML automation pipelines processing 34,000+ lines of localization data across 100+ files.
 
-### 🌍 RimWorld Georgian Localization (Open Source)
-- Full translation project
-- Worked with XML data structures
-- Ensured data integrity and consistency
-- Used GitHub for collaboration and version control
+### [termux-debian-workstation](https://github.com/Tricksteridze/termux-debian-workstation)
+Automated deployment script for a full Debian XFCE desktop environment on Android via Termux, with GPU-accelerated X11 rendering.
 
----
+## What I'm Looking For
 
-### 🧠 Python Automation Scripts
-- File processing scripts
-- Data handling (JSON/XML)
-- Report generation
+IT Support · Linux Support · NOC · Junior DevOps / System Administration roles in Tbilisi
 
----
+## Get in Touch
 
-## 🔧 What I'm looking for
-
-- IT Support (Junior)
-- Junior QA / QA Internship
-
----
-
-## 📫 Contact
-
-- Email: levankhutsishvili@proton.me
-- GitHub: https://github.com/Tricksteridze
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/levan-khutsishvili-0030b33a1) or email.

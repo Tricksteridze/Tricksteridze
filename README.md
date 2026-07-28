@@ -1,51 +1,45 @@
-# Hi, I'm Levan 
+# Hi, I'm Levan Khutsishvili
 
-IT Support / Linux Support / Junior DevOps candidate based in Tbilisi, Georgia.
+**IT Support · Linux Support · NOC / Monitoring candidate based in Tbilisi, Georgia**
 
-[LinkedIn](https://www.linkedin.com/in/levan-khutsishvili-0030b33a1) · levankhutsishvili@proton.me
+[Portfolio](https://tricksteridze.github.io/) · [LinkedIn](https://www.linkedin.com/in/levan-khutsishvili-0030b33a1) · [Email](mailto:levankhutsishvili@proton.me)
 
-## About Me
+## About
 
-- Currently working night shifts at SPAR Georgia (high-responsibility, independent troubleshooting environment) — transitioning into IT
-- Self-taught in Linux administration, networking, and automation through hands-on, real projects
-- Comfortable working under pressure and solving problems independently
-- Actively building toward System Administration / DevOps, one project at a time
+I am transitioning from night-shift retail operations into infrastructure-focused IT. My background includes independent first-line troubleshooting under pressure, while my technical skills come from building and documenting practical Linux, networking, monitoring and automation projects.
 
-## Technical Skills
+I am currently targeting hands-on entry roles in **IT Support, Linux Support, NOC, Monitoring and Junior System Administration**.
 
-**Operating Systems**
-- Linux (Debian, Arch) — daily driver, terminal-first
-- Windows 10/11 (administration, registry, optimization)
+## Core Skills
 
-**Networking**
-- TCP/IP, DNS, DHCP
-- Router & AP configuration, VLAN
-- RJ-45 crimping and cable testing
-
-**Infrastructure & Automation**
-- Docker, Docker Compose
-- Prometheus, Grafana, Loki, Promtail, Telegraf
-- Python (automation, OOP), Bash/Shell scripting
-- Git / GitHub
+- **Linux:** Debian, Fedora, RHEL, Arch; terminal administration and troubleshooting
+- **Windows & support:** Windows 10/11, workstation setup, peripherals, POS and first-line diagnostics
+- **Networking:** TCP/IP, DNS, DHCP, VLAN, LAN/Wi-Fi troubleshooting, router configuration
+- **Observability:** Prometheus, Grafana, Loki, Promtail, Telegraf
+- **Infrastructure:** Docker, Docker Compose, Git, GitHub
+- **Automation:** Python, Bash; Go in active development
 
 ## Featured Projects
 
-### [linux-observability-stack](https://github.com/Tricksteridze/linux-observability-stack)
-Self-hosted monitoring stack for Linux hosts — Prometheus, Grafana, Loki, Promtail, Telegraf, deployed via Docker Compose with a single command. Detects the host's Docker group GID at runtime and grants access via `group_add` instead of privileged container mode. Auto-provisions Grafana dashboards on startup. Binds services to localhost by default, with VPN overlay recommended for remote access.
+### [Linux Observability Stack](https://github.com/Tricksteridze/linux-observability-stack)
+A self-hosted monitoring environment for a Linux host using Prometheus, Grafana, Loki, Promtail and Telegraf. It deploys with Docker Compose, provisions Grafana automatically, preserves data in named volumes, detects the host Docker socket GID at runtime and binds services to localhost by default.
 
-### [asterisk-gemini-voice](https://github.com/Tricksteridze/asterisk-gemini-voice)
-Self-hosted AI voice assistant over SIP — Asterisk PBX integrated with the Gemini API via FastAGI. Handles real-time audio streams and session state in Python.
+### [Asterisk Gemini Voice Assistant](https://github.com/Tricksteridze/asterisk-gemini-voice)
+A self-hosted voice assistant over SIP built with Asterisk, Python FastAGI, speech recognition, Gemini and text-to-speech. It handles bilingual DTMF language selection and a complete speech-to-AI-to-audio call loop.
 
-### RimWorld Georgian Localization
-Core contributor to RimWorld's **official** Georgian localization, maintained under Ludeon Studios' own GitHub organization. Restructured the repository into a modern multi-DLC layout and built Python/XML automation pipelines processing 34,000+ lines of localization data across 100+ files.
+### [Termux Debian Workstation](https://github.com/Tricksteridze/termux-debian-workstation)
+An automated setup for running a full Debian XFCE desktop on Android without root, using Termux, proot-distro, Termux-X11, VirGL and PulseAudio.
 
-### [termux-debian-workstation](https://github.com/Tricksteridze/termux-debian-workstation)
-Automated deployment script for a full Debian XFCE desktop environment on Android via Termux, with GPU-accelerated X11 rendering.
+### [Official RimWorld Georgian Localization](https://github.com/Ludeon/RimWorld-Georgian)
+Contributor to the official Georgian localization maintained under the Ludeon Studios GitHub organization. The work includes restructuring content for multiple DLCs and using Python/XML automation across 34,000+ lines in 100+ files.
 
-## What I'm Looking For
+## What I Bring
 
-IT Support · Linux Support · NOC · Junior DevOps / System Administration roles in Tbilisi
+- Practical troubleshooting habits from high-responsibility night work
+- Reproducible, documented infrastructure projects instead of tutorial-only exercises
+- A secure-by-default mindset: least exposure, local binding, VPN-based remote access and no unnecessary privileged containers
+- Professional communication in **Georgian, Russian and English**
 
-## Get in Touch
+## Current Direction
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/levan-khutsishvili-0030b33a1) or email.
+I am strengthening Active Directory, cloud networking, monitoring and automation skills while looking for a team where I can grow through real operational work.

@@ -1,14 +1,19 @@
-# Hi, I'm Levan Khutsishvili
+# Levan Khutsishvili (Tricksteridze)
 
-**IT Support · Linux Support · NOC / Monitoring candidate based in Tbilisi, Georgia**
+**Junior System Administrator · Linux Support · NOC / Monitoring candidate based in Tbilisi, Georgia**
 
 [Portfolio](https://tricksteridze.github.io/) · [LinkedIn](https://www.linkedin.com/in/levan-khutsishvili-0030b33a1) · [Email](mailto:levankhutsishvili@proton.me)
 
 ## About
 
-I am transitioning from night-shift retail operations into infrastructure-focused IT. My background includes independent first-line troubleshooting under pressure, while my technical skills come from building and documenting practical Linux, networking, monitoring and automation projects.
+I am **Levan Khutsishvili**, also known online as **Tricksteridze**. I am transitioning from night-shift retail operations into infrastructure-focused IT. My background includes independent first-line troubleshooting under pressure, while my technical skills come from building and documenting practical Linux, networking, monitoring and automation projects.
 
 I am currently targeting hands-on entry roles in **IT Support, Linux Support, NOC, Monitoring and Junior System Administration**.
+
+## Verified Training & Credentials
+
+- [Cisco — Computer Hardware Basics](https://www.credly.com/badges/6422397e-60d1-4ffd-8da9-08899e3b1103/public_url)
+- [Cisco — Operating Systems Basics](https://www.credly.com/badges/8d0d72ad-af80-441e-8965-692fa46e3388/public_url)
 
 ## Core Skills
 
@@ -42,4 +47,4 @@ Contributor to the official Georgian localization maintained under the Ludeon St
 
 ## Current Direction
 
-I am strengthening Active Directory, cloud networking, monitoring and automation skills while looking for a team where I can grow through real operational work.
+I am strengthening Active Directory, networking, monitoring and automation skills while looking for a team where I can grow through real operational work.
